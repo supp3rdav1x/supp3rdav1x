@@ -1,4 +1,4 @@
-## Oi! Eu sou o Davi 👨🏻
+## Oi! Eu sou o Davi
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 🕸 Gosto de Web Design
